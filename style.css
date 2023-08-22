@@ -19,7 +19,7 @@
 
 /* Import fonts */
 
-@font-face {
+/* @font-face {
   font-family: Open-Dyslexic-Bold;
   src: url("https://cdn.glitch.global/df93a140-5a49-4828-bbb2-731ee29b5e22/OpenDyslexic-Bold.otf")
     format("opentype");
@@ -27,6 +27,12 @@
 @font-face {
   font-family: Open-Dyslexic-Regular;
   src: url("https://cdn.glitch.global/df93a140-5a49-4828-bbb2-731ee29b5e22/OpenDyslexic-Regular.otf")
+    format("opentype");
+} */
+
+@font-face{
+  font-family: 'Roboto Mono', monospace;
+  src: url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap')
     format("opentype");
 }
 
@@ -49,7 +55,7 @@ body {
 }
 
 a {
-  color: darkorange;
+  color: rgb(139, 13, 116);
 }
 
 a:hover{
@@ -58,7 +64,7 @@ a:hover{
 
 header a, header a:hover {
   text-decoration: none;
-  color: darkorange;
+  color: rgb(0, 0, 0);
 }
 
 nav {
@@ -138,7 +144,8 @@ img {
 
 h1 {
   font-size: 35pt;
-  font-family: Open-Dyslexic-Bold, sans-serif;
+  font-family: 'Roboto Mono', monospace;  
+  /* font-family: Open-Dyslexic-Bold, sans-serif; */
 }
 
 h2 {
@@ -148,12 +155,14 @@ h2 {
 h2,
 h3 {
   margin-top: 3rem;
-  font-family: Open-Dyslexic-Bold, sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  /* font-family: Open-Dyslexic-Bold, sans-serif; */
 }
 
 h4,
 h5 {
-  font-family: Open-Dyslexic-Regular, sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  /* font-family: Open-Dyslexic-Regular, sans-serif; */
 }
 
 #block {
