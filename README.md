@@ -9,11 +9,11 @@ This is the [website](https://parsonsdt.github.io/critical-computation-2023/) fo
 
 ### Lab Faculty
 
-- [Lauria Clarke]()
+- [Lauria Clarke](lauriaclarke.com)
 - [Gabriel-Lee Dekoladenu](https://www.gabedeko.com/)
 - [Regina Flores Mir](http://www.reginafloresmir.com/)
 - [Lai Yi Ohlsen](https://www.laiyiohlsen.com/)
-- [Munus Shih]()
+- [Munus Shih](https://munusshih.com/)
 - [Lavannya Surresh]()
 - [Roy Yang]()
 
